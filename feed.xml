@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 16 Aug 2026 11:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:58:52 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-08-16]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-16-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ 2026-08-16 · 涵盖前端工程化 / AI Agent 框架 / 本地模型部署 / 自动化构建等领域的 8 条技术问答与沉淀 Computer ×4 AI ×2 Other ×2 目录 Vite + React + TypeScript 项目搭建最佳实践 （Computer） Tailwind…]]></description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-16-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[RAG 基础知识手册]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-15-RAG%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C.html</link>
