@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个人作品集 - 软件作品与技术文章</title>
+    <link>https://slyum123.github.io</link>
+    <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
+    <language>zh-CN</language>
+    <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Aug 2026 11:37:58 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[RAG 基础知识手册]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-15-RAG%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C.html</link>
+      <description><![CDATA[Retrieval-Augmented Generation 📘 RAG手册/ 📁 01-基础概念/ 1.1 什么是 RAG 1.2 为什么需要 RAG 1.3 RAG vs 微调 vs 长上下文 1.4 RAG 的三阶段演进 📁 02-核心组件与流程/ 2.1 总体架构：两条流水线 2.2 文档加载与分块 Ch…]]></description>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-15-RAG%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C.html</guid>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[QKV 概念]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-14-QKV_%E6%A6%82%E5%BF%B5.html</link>
+      <description><![CDATA[QKV 概念 来源：PDF 学习笔记 · 共 2 页 · 提取文本 981 字 · 提取插图 1 张 第 1 页 QKV概念​ Transformer架构中， 在encoder和decoder阶段，都有一个MHA（multiheader Latent Attention） 模块，主要用于找到输入各token之间的依赖关…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-14-QKV_%E6%A6%82%E5%BF%B5.html</guid>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[推理场景为什么要 KV Cache（图形描述）]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-14-%E6%8E%A8%E7%90%86%E5%9C%BA%E6%99%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81_KV_Cache_%E5%9B%BE%E5%BD%A2%E6%8F%8F%E8%BF%B0.html</link>
+      <description><![CDATA[推理场景为什么要 KV Cache（图形描述） 来源：PDF 学习笔记 · 共 10 页 · 提取文本 2671 字 · 提取插图 16 张 第 1 页 推理场景为什么要KVcache（图形描述）？​ 1. 推理场景：LLM 矩阵Prefill和decoder阶段全流程​ • ​ • LLM推理中，每次预测一个新tok…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-14-%E6%8E%A8%E7%90%86%E5%9C%BA%E6%99%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81_KV_Cache_%E5%9B%BE%E5%BD%A2%E6%8F%8F%E8%BF%B0.html</guid>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[PCIe 协议学习笔记]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-14-PCIe_%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <description><![CDATA[PCIe 协议学习笔记 来源：PDF 学习笔记 · 共 25 页 · 提取文本 11203 字 · 提取插图 28 张 第 1 页 PCIE协议学习笔记​ 1. PCIe 概述​ 1.1 什么是 PCIe​ PCI Express（PCIe，Peripheral Component Interconnect Expre…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-14-PCIe_%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <category>communication</category>
+    </item>
+    <item>
+      <title><![CDATA[UAlink 协议学习笔记]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-14-UAlink_%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <description><![CDATA[UAlink 协议学习笔记 来源：PDF 学习笔记 · 共 13 页 · 提取文本 3786 字 · 提取插图 15 张 第 1 页 UAlink协议学习笔记​ 目录​ 1. 协议分层总览​ UALink 协议栈按照功能划分为 四个硬件优化层，从底层到上层依次为：​ 说明：UALink 是精简的 Scale-Up 协议…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-14-UAlink_%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <category>communication</category>
+    </item>
+    <item>
+      <title><![CDATA[并行算法知识 - PP 流水线并行]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-14-%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86.html</link>
+      <description><![CDATA[并行算法知识 整理自 流水线并行可视化调度（Gpipe, 1F1B, Interleaved-1F1B, Zero Bubble） ，聚焦大模型分布式训练中的流水线并行（Pipeline Parallelism, PP）调度策略。 一、PP 并行：流水线并行概述 随着深度学习模型规模的爆炸式增长，单张 GPU/NPU…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-14-%E5%B9%B6%E8%A1%8C%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86.html</guid>
+      <category>communication</category>
+    </item>
+    <item>
+      <title><![CDATA[服务器基础知识学习笔记]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Computer/2026-08-14-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <description><![CDATA[服务器基础知识学习笔记 来源：PDF 学习笔记 · 共 12 页 · 提取文本 11671 字 · 提取插图 6 张 第 1 页 服务器基础知识学习笔记​ 1. 固件和驱动的概念和区别​ 驱动是主机操作系统上的软件，运行在主机 CPU，负责操作系统和硬件之间的桥梁，下发命令、 处理中断、向上抽象设备接口。​ 固件运行在…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Computer/2026-08-14-%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <category>computer</category>
+    </item>
+    <item>
+      <title><![CDATA[计算机基础知识学习笔记]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Computer/2026-08-14-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</link>
+      <description><![CDATA[计算机基础知识学习笔记 来源：PDF 学习笔记 · 共 25 页 · 提取文本 16988 字 · 提取插图 35 张 第 1 页 计算机基础知识学习笔记​ 💡 学而不思则罔，思而不学则殆。 —— 孔子​ 👉 新年充电 推荐书单 ​ 学习提纲思维导图​ ​ 在左侧 “+” 菜单点击“思维导图”创建你自己的读书思维笔…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Computer/2026-08-14-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</guid>
+      <category>computer</category>
+    </item>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-08-14]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-14-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ 2026-08-14 · 涵盖 AI 大模型 / 计算机基础 / 通信协议等领域的 12 条技术问答与沉淀 AI ×7 Communication ×3 Computer ×1 Other ×1 目录 DeepSeek V3 架构五大关键技术 （AI） MLA 多头潜在注意力：KV 缓存 71× 压缩…]]></description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-14-FAQ.html</guid>
+      <category>other</category>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek V3 深度分析]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-13-deepseek%E5%88%86%E6%9E%90.html</link>
+      <description><![CDATA[☰ DeepSeek V3 深度分析 总览 deepseekV3/01-架构介绍 总体架构 MLA 多头潜在注意力 DeepSeekMoE 架构 多 Token 预测 (MTP) FP8 混合精度 DualPipe 并行调度 模型规格总表 deepseekV3/02-关键功能与组件 组件总览 MLA 组件详解 MoE…]]></description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-13-deepseek%E5%88%86%E6%9E%90.html</guid>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[Transformer 架构源代码逐段分析与学习总结]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-13-transformer-architecture-analysis.html</link>
+      <description><![CDATA[基于 "Attention Is All You Need" (Vaswani et al., 2017) 的 PyTorch 实现 目录 Positional Encoding 位置编码 Scaled Dot-Product Attention 缩放点积注意力 Multi-Head Attention 多头注意力 P…]]></description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/AI/2026-08-13-transformer-architecture-analysis.html</guid>
+      <category>ai</category>
+    </item>
+    <item>
+      <title><![CDATA[PFC / CBFC / LLR 链路层流控与重试机制深度解析]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-13-CBFC-LLR-PFC.html</link>
+      <description><![CDATA[基于 IEEE 802.1Qbb / IEEE 802.1Qaz / Ultra Ethernet Consortium (UEC) v1.0 规范 目录 概述：无损以太网的三层防线 PFC — 基于优先级的流量控制 功能原理 报文格式 DCBx 协商机制 参数配置机制 正常场景流程 异常场景与响应 PFC Watch…]]></description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-13-CBFC-LLR-PFC.html</guid>
+      <category>communication</category>
+    </item>
+    <item>
+      <title><![CDATA[PCIe 在 Scale-Up 网络中的劣势深度分析]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-13-PCIE.html</link>
+      <description><![CDATA[第1章 PCIe 协议架构回顾 1.1 PCIe 协议栈分层 1.2 TLP 事务层报文格式 1.3 DLLP 数据链路层报文 1.4 物理层帧格式 1.5 PCIe 拓扑模型 1.6 PCIe 流控机制 第2章 PCIe 在 Scale-Up 场景的根本劣势 2.1 拓扑局限性：树形 vs 扁平 Mesh 2.2 带…]]></description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-13-PCIE.html</guid>
+      <category>communication</category>
+    </item>
+    <item>
+      <title><![CDATA[Scale-Up 网络协议全景解析]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-13-ScaleUp-Protocol-Analysis.html</link>
+      <description><![CDATA[第0章 Scale-Up 网络概述与协议对比 第1章 NVIDIA NVLink 1.1 物理层 1.2 数据链路层 1.3 事务层 1.4 全局编址方案 1.5 部署架构 第2章 华为 灵衢 UB (UnifiedBus) 2.1 物理层 2.2 数据链路层 2.3 网络层 2.4 传输层 2.5 事务层 2.6 全…]]></description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Communication/2026-08-13-ScaleUp-Protocol-Analysis.html</guid>
+      <category>communication</category>
+    </item>
+    <item>
+      <title><![CDATA[名词解释 | Technical-FAQ]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html</link>
+      <description><![CDATA[名词解释 Glossary 技术名词统一解释文档 · 持续更新 · 每篇内容含定义、原理、应用与关键结论 术语目录： 低秩投影压缩 低秩投影压缩 Low-Rank Projection Compression / Latent Compression 定义 利用数据（矩阵/向量序列）的低秩特性，通过线性投影将高维表示映…]]></description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.html</guid>
+      <category>other</category>
+    </item>
+    <item>
+      <title><![CDATA[React 性能优化实战：从 60fps 到丝滑体验]]></title>
+      <link>https://mp.weixin.qq.com/s/example1</link>
+      <description><![CDATA[深入探讨 React 应用性能优化的方方面面，从虚拟列表、Memo 策略到并发渲染，结合真实项目案例分享优化心得。]]></description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/example1</guid>
+      <category>wechat</category>
+    </item>
+    <item>
+      <title><![CDATA[从零开发 VS Code 插件：完整指南]]></title>
+      <link>https://mp.weixin.qq.com/s/example2</link>
+      <description><![CDATA[手把手教你开发 VS Code 插件，从项目搭建、API 使用到发布上架，覆盖开发全流程和常见踩坑。]]></description>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/example2</guid>
+      <category>wechat</category>
+    </item>
+    <item>
+      <title><![CDATA[TypeScript 高级类型体操：10 个实用模式]]></title>
+      <link>https://mp.weixin.qq.com/s/example3</link>
+      <description><![CDATA[精选 10 个 TypeScript 高级类型模式，从条件类型到模板字面量类型，让你的代码更优雅、更安全。]]></description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/example3</guid>
+      <category>wechat</category>
+    </item>
+    <item>
+      <title><![CDATA[Electron 应用安全加固指南]]></title>
+      <link>https://mp.weixin.qq.com/s/example4</link>
+      <description><![CDATA[Electron 应用常见安全隐患及防护方案，包括 preload 脚本安全、Context Isolation、CSP 策略等关键实践。]]></description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/example4</guid>
+      <category>wechat</category>
+    </item>
+    <item>
+      <title><![CDATA[设计一个优秀的 CLI 工具：交互与体验]]></title>
+      <link>https://mp.weixin.qq.com/s/example5</link>
+      <description><![CDATA[如何设计用户友好的命令行工具，涵盖交互模式、进度反馈、错误处理和配置管理的设计原则。]]></description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s/example5</guid>
+      <category>wechat</category>
+    </item>
+  </channel>
+</rss>
