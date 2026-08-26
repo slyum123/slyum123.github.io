@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 16 Aug 2026 12:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:42:35 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-08-26]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-26-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-08-26 8 条问答 · 涵盖 LLM 架构对比、Groq LPU 推理芯片架构、SRAM 内存墙、确定性执行、软件栈与生态 01 Prefix Decoder、Causal Decoder、Encoder-Decoder 三种 LLM 架构有什么区别？ AI 问题描述 大语言模型的三…]]></description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-26-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-08-16]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-16-FAQ.html</link>
