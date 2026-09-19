@@ -6,7 +6,31 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 26 Aug 2026 03:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:04:26 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-09-19]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-19-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-09-19 8 条问答 · 主题：mKernel — 跨 GPU / 跨节点融合内核（SM 角色化 / 三粒度解耦 / 48B 命令队列 + host proxy / IBGDA 反直觉 / rail-optimized 层次化通信 / 实测加速）· 来源：arXiv:2609.1358…]]></description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-19-FAQ.html</guid>
+      <category>other</category>
+    </item>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-09-06]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-06-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-09-06 8 条问答 · 主题：MetaInfer — 异构 AI 加速器上的 LLM-Agent 模型-硬件协同适配（执行-适配图 / 四不变式 / 三循环设计 / 跨 episode 知识迁移 / 跨硬件可移植性）· 来源：arXiv:2607.12875 论文深度解读沉淀 Q1…]]></description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-06-FAQ.html</guid>
+      <category>other</category>
+    </item>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-08-30]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-30-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-08-30 8 条问答 · 主题：AAFLOW+ 多智能体工作流的零拷贝分布式 KV Cache 编排（含传输 vs 重算调度、KV 状态算子代数、零拷贝传输实现）· 来源：2026-08-28 论文深度解读沉淀 Q1 多智能体 LLM 系统为什么应该传递 KV Cache 而不是文本？…]]></description>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-30-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-08-26]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-08-26-FAQ.html</link>
