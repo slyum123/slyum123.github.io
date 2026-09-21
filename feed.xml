@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 19 Sep 2026 13:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:12:44 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-09-21]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-21-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-09-21 今日 10 条问答 — 主题 A：Groq TSP（张量流处理器）三论文深度解读（AI 硬件架构 / 确定性推理加速器）；主题 B：SemaCredit — 面向 Scale-Up Fabric 的完成路径多资源流控（arXiv:2608.17523）。 Q1 TSP 的「功…]]></description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-21-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-09-19]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-19-FAQ.html</link>
