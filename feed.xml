@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 14:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:35:30 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-09-22]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-22-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-09-22 Dragonfly-Ultra：面向高性能 AI 集群的可扩展、低成本网络架构（SIGCOMM 2026 NAIC Workshop，中国移动研究院）· 10 条问答 + 技术知识点沉淀 Q1 Dragonfly-Ultra 是什么？它的核心命题是什么？ Communicat…]]></description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-22-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-09-21]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-21-FAQ.html</link>
