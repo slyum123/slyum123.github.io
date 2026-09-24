@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 14:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:32:36 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-09-24]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-24-FAQ.html</link>
+      <description><![CDATA[页面 每日技术 FAQ · 2026-09-24 📅 2026-09-24 📦 10 条问答 🗂 主题：BeaconKV — 面向大型推理模型（LRM）的 KV Cache 压缩（arXiv:2609.04971, ICML 2026） AI Q1. 什么是 BeaconKV？它解决 LRM 推理中的什么问题？…]]></description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-24-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-09-23]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-23-FAQ.html</link>
