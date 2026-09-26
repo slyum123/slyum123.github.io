@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 26 Sep 2026 12:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:04:39 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-09-26]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-26-FAQ.html</link>
+      <description><![CDATA[页面 每日技术 FAQ · 2026-09-26 📅 2026-09-26 📦 10 条问答 🗂 主题：Uno — 用离散扩散解锁大语言模型的无损加速（arXiv:2609.04010） 本期来源： 《Uno: Unlocking Lossless Speedups in LLMs via Discrete Di…]]></description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-26-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-09-25]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-25-FAQ.html</link>
