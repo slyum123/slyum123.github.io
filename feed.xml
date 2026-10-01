@@ -6,11 +6,19 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 26 Sep 2026 13:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:59:49 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-10-01]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-01-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-10-01 PREFACE：Scale-Up 链路的联合 FEC 与飞行控制（Predict Before Replay）· arXiv:2608.17503 · 中科院计算所 ICT, CAS 1 PREFACE 要解决的核心问题是什么？ Communication 论文识别了 Sca…]]></description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-01-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-09-26]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-26-FAQ.html</link>
-      <description><![CDATA[页面 每日技术 FAQ · 2026-09-26 📅 2026-09-26 📦 10 条问答 🗂 主题：Uno — 用离散扩散解锁大语言模型的无损加速（arXiv:2609.04010） 本期来源： 《Uno: Unlocking Lossless Speedups in LLMs via Discrete Di…]]></description>
+      <description><![CDATA[每日技术 FAQ · 2026-09-26 Uno：通过离散扩散解锁 LLM 无损加速 · arXiv:2609.04010 · MBZUAI / UIUC / Cornell / Harvard / Cerebras 1 Uno 的核心思想是什么？与现有路线有何不同？ AI 问题描述 现有 LLM 加速路线（MTP、…]]></description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-09-26-FAQ.html</guid>
       <category>other</category>
