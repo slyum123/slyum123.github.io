@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 13:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:20:10 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-10-10]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-10-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-10-10 今日主题：共享 KV Cache 的来源盲复用与 KV Provenance Contract（arXiv:2609.38706） 2026-10-10 · 10 条问答 · AI ×8 / Computer ×1 / Other ×1 · 附 LMCache 源码兼容性知识…]]></description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-10-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-10-02]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-02-FAQ.html</link>

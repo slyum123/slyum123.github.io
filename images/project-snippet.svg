@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" fill="none">
+  <rect width="400" height="240" rx="12" fill="hsl(234 40% 10%)"/>
+  <rect x="30" y="30" width="340" height="180" rx="8" fill="hsl(234 30% 15%)"/>
+  <rect x="50" y="50" width="140" height="14" rx="4" fill="hsl(245 58% 51% / 0.5)"/>
+  <rect x="50" y="80" width="300" height="1" fill="hsl(234 30% 20%)"/>
+  <text x="50" y="110" fill="hsl(245 58% 51% / 0.6)" font-family="monospace" font-size="12">const snippet = {</text>
+  <text x="70" y="130" fill="hsl(280 60% 55% / 0.6)" font-family="monospace" font-size="12">prefix: "log",</text>
+  <text x="70" y="150" fill="hsl(280 60% 55% / 0.6)" font-family="monospace" font-size="12">body: "console.log()",</text>
+  <text x="50" y="170" fill="hsl(245 58% 51% / 0.6)" font-family="monospace" font-size="12">};</text>
+</svg>
