@@ -6,11 +6,19 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 14:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:28:26 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-10-19]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-19-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-10-19 主题：GitHub 不可达的根因定位 —— Windows hosts 劫持与 CONNECT 代理绕行 生成时间：2026-10-19 · 分类：Computer × 7、Other × 3 1 git push 报 "Failed to connect to github…]]></description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-19-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-10-18]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-18-FAQ.html</link>
-      <description><![CDATA[每日技术 FAQ · 2026-10-18 EfficientAgent：并发 Agent 场景下 KV Cache 卸载为何"时灵时不灵"——复用工作集 · 栈距离容量模型 · 容量条件化写准入 生成日期：2026-10-18 · 来源：EfficientAgent 论文深度解读（arXiv:2609.33762，H…]]></description>
+      <description><![CDATA[每日技术 FAQ · 2026-10-18 EfficientAgent 论文深度解读 — 并发 Agent 场景下 KV Cache 卸载为何"时灵时不灵" 2026-10-18 · 共 10 条问答 + 知识点沉淀 · 来源：arXiv:2609.33762 深度解读（HKUST × Huawei × HKU ×…]]></description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-18-FAQ.html</guid>
       <category>other</category>
