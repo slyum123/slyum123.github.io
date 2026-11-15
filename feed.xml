@@ -6,7 +6,23 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 19 Oct 2026 14:28:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:07:02 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-11-15]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-11-15-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-11-15 主题：RDMA 协议详解 —— 报文格式、BTH OpCode 编码空间与指令级问题清单（RoCEv2 / RC 为主线，对照 IB 原生、RoCEv1、iWARP） 2026-11-15 · 14 条问答 + 8 组技术知识点沉淀 · 口径以 IBTA Vol.1 与 An…]]></description>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-11-15-FAQ.html</guid>
+      <category>other</category>
+    </item>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-10-21]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-21-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-10-21 主题一：FastEEP —— MoE 推理的实例内 EP 弹性伸缩（arXiv:2610.18451，上海交大 IPADS）｜主题二：Co-Fabric —— 打破主机域边界的总线型 xPU 互连（浪潮信息 IEIT）｜主题三：Purlin —— 集合通信「编排 / 数据通路…]]></description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-21-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-10-19]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-10-19-FAQ.html</link>
