@@ -6,7 +6,15 @@
     <description>独立开发者个人作品展示 - 软件作品、小插件、技术文章</description>
     <language>zh-CN</language>
     <atom:link href="https://slyum123.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Nov 2026 13:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:57:21 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[每日技术 FAQ · 2026-11-17]]></title>
+      <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-11-17-FAQ.html</link>
+      <description><![CDATA[每日技术 FAQ · 2026-11-17 Grok 模型架构 · NVIDIA × Groq LPU 软硬件融合方案 2026-11-17 · 14 条问答 + 8 组技术知识点沉淀 · 数值均标注口径来源（官方规格书 / 厂商宣称 / 公开报道） 口径说明： 当日两个技术议题分别为「Grok 架构方案材料编写」（2…]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://slyum123.github.io/Technical-FAQ/html/Other/2026-11-17-FAQ.html</guid>
+      <category>other</category>
+    </item>
     <item>
       <title><![CDATA[每日技术 FAQ · 2026-11-15]]></title>
       <link>https://slyum123.github.io/Technical-FAQ/html/Other/2026-11-15-FAQ.html</link>
